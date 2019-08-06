@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.pic {
+  width: 50px;
+  height: 100px;
+}
+
+.navbar {
+   list-style-type: none;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   font-size: 30px;
+   color: white;
+   background: black;
+   height: 60px;
+   margin: 0;
+}
+
+.header h1 {
+  font-size: 50px;
+  margin-top:120px;
+  color: rgb(228, 224, 224);
+}

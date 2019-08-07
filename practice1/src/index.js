@@ -1,6 +1,7 @@
-import React from "react";
-import ReactDom from "react-dom";
-import Nav from "./components/Nav";
+import React from "react"
+import ReactDom from "react-dom"
+import Nav from "./components/Nav"
+import GetTime from "./components/GetTime"
 
 ReactDom.render(
 
@@ -10,6 +11,7 @@ ReactDom.render(
     praesentium! Architecto in atque cumque magni animi excepturi nisi sunt. Voluptatibus.
 </p>
 <Nav/>
+<GetTime/>
 </div>
 , document.getElementById("root"))
 

@@ -4,7 +4,7 @@ import "./css/Cards.css"
 function ContactCard (props) {
 
     return (
-        <div className = "cards">
+        <div className = "cards1">
             <h3>{props.contact.name}</h3>
             <p>{props.contact.email}</p>
             <p>{props.contact.age}</p>

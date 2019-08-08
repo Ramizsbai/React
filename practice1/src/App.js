@@ -3,7 +3,7 @@ import ContactCard from "./components/ContactCard";
 
 function App(){
     return(
-        <div>
+        <div className = "cards">
         <ContactCard
         contact = {{name: "Ramez:", email: "ramizsbai@hotmail.com", age: "25", city: "Berlin"}}
         />

@@ -2,6 +2,9 @@ import React from "react"
 import ReactDom from "react-dom"
 import Nav from "./components/Nav"
 import GetTime from "./components/GetTime"
+import App from "./App"
+
+
 
 ReactDom.render(
 
@@ -12,6 +15,10 @@ ReactDom.render(
 </p>
 <Nav/>
 <GetTime/>
+<App/>
 </div>
+
+
+
 , document.getElementById("root"))
 

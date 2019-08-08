@@ -1,0 +1,16 @@
+.cards {
+    
+    
+    justify-content: center;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+
+.cards h3 p {
+    
+    display: flex;
+    justify-content: center;
+    
+}
+
